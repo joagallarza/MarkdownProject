@@ -2,6 +2,8 @@
 
 Aquest projecte serveix per practicar Git i Markdown. Pots consultar la [Git Documentation](https://git-scm.com/doc) per aprendre més sobre Git.
 
+Aquest README s'ha anat construint pas a pas, fent un commit per cada tasca de la pràctica.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
