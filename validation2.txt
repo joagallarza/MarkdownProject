@@ -1,0 +1,124 @@
+commit 74e972ae04c0cdc2c11dd2c54c11f660937f0bdc
+Merge: 2d88b80 b6e9d2e
+Author: joagallarza <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:55:18 2026 +0100
+
+    Merge pull request #2 from joagallarza/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit b6e9d2e95b6f1d3cb68271fc216a920032ef2730
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:47:41 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 39 +++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 39 insertions(+)
+
+commit 2d88b80eb26dc5d0c3eccbe4e0e7959e51571508
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:32:20 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 97 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 97 insertions(+)
+
+commit e668442a4a9e8311cc0145db2f1af2746c34d72e
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:32:19 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 913ac02d6c69c6dd200e0c6f0db93599351aa6b8
+Merge: b8f1e3f ac012b8
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:32:05 2026 +0100
+
+    Merge add-license branch into main
+
+commit ac012b81bed186098ccc283110bf85a1cb3781f7
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:32:04 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit b8f1e3f4feb758d4620955fe55b64f34f7e8d97e
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:29:25 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 1029155751710f950c7d5d51326b086613fa483a
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:27:18 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit a7f01876a072470874d031f7e64110b66f3fe8a3
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:24:48 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 5624 bytes
+ 2 files changed, 2 insertions(+)
+
+commit c26225ba49a42c43d3237cee5b20812495902d5d
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:22:22 2026 +0100
+
+    Add sections to README
+
+ README.md | 22 ++++++++++++++++++++++
+ 1 file changed, 22 insertions(+)
+
+commit 1da526c5a71eda30992f2e0741e0492d8a09d6a7
+Author: Joan <joagali@iespoblenou.org>
+Date:   Thu Nov 26 09:22:21 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 33d72b377e00ad0f24d4cb7d7a9b5199446f5362
+Author: Joan <joagali@iespoblenou.org>
+Date:   Wed Nov 25 18:59:29 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 84fafe98bc50436d0e78c3fc7e4d5058304d980a
+Author: Joan <joagali@iespoblenou.org>
+Date:   Wed Nov 25 18:52:20 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 2b8888073fea88e08be4b6ba116c3c1d965ce5aa
+Author: Joan <joagali@iespoblenou.org>
+Date:   Wed Nov 25 18:46:00 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
