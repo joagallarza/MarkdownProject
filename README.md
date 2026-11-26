@@ -14,6 +14,8 @@ Aquest projecte serveix per practicar Git i Markdown. Pots consultar la [Git Doc
 
 Aquest repositori conté els exercicis de la pràctica Pt2.1, on s'aprèn a treballar amb Git i a donar format a documents amb Markdown.
 
+![Project Logo](images/logo.png)
+
 ## Features
 
 Llista de les funcionalitats del projecte.
