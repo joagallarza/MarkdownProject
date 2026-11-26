@@ -20,6 +20,13 @@ Aquest repositori conté els exercicis de la pràctica Pt2.1, on s'aprèn a treb
 
 Llista de les funcionalitats del projecte.
 
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Table of Contents | Índex amb enllaços interns a cada secció del README | Completed |
+| Project Logo | Logotip del projecte inserit amb sintaxi Markdown | Completed |
+| Contribution Guidelines | Fitxer CONTRIBUTING.md amb les normes per contribuir | In Progress |
+| GitHub Integration | Repositori remot a GitHub amb issues i pull requests | Planned |
+
 ## Installation
 
 Clona el repositori al teu ordinador:
